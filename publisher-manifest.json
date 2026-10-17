@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "cdea2a7dbe3aaa4e56ab9564",
+  "owner": "ber4gyatf",
+  "repo": "page-a11643e0eb6ce205189385d7",
+  "title": "搞鸡云(GaoJI)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a11643e0eb6ce205189385d7",
+      "a": "搞鸡云(GaoJI)",
+      "b": "",
+      "entity": "搞鸡云(GaoJI)",
+      "brand": "搞鸡云(GaoJI)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4c969220fc18c6789dbc64fb3ab780312d161df30823e573c3aaa5b10af4d473",
+      "content": {
+        "keyword1": "搞鸡云(GaoJI)",
+        "keyword2": "",
+        "primary_entity": "搞鸡云(GaoJI)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "搞鸡云是把品牌名铺满一屏的小站。用跟朋友说话的口气讲档位、用法和常见问题，不端着，也不拿空话填篇幅。",
+          "AI_DESCRIPTION": "搞鸡云是把品牌名铺满一屏的小站。用跟朋友说话的口气讲档位、用法和常见问题，不端着，也不拿空话填篇幅。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{font-family:system-ui,-apple-system,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;background:#e6e6ea;color:#1c1c22;line-height:1.65}\na{color:#6d28d9;text-decoration:none}\na:hover{color:#4c1d95;text-decoration:underline}\n.toc{position:fixed;left:0;top:0;bottom:0;width:138px;background:#f1f1f5;border-right:4px solid #7c3aed;padding:1.4rem 0.85rem;display:flex;flex-direction:column;gap:1.1rem;z-index:20}\n.toc .mark{font-size:0.72rem;letter-spacing:0.18em;color:#7c3aed;font-weight:700;text-transform:uppercase}\n.toc a{color:#1c1c22;font-size:0.95rem;font-weight:650;border:3px solid transparent;padding:0.25rem 0.2rem}\n.toc a:hover{border-color:#7c3aed;text-decoration:none;background:#efe6ff}\nmain{margin-left:138px}\n.hero{min-height:100vh;background:#dedee4;padding:4.5vh 5vw 4vh;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden;border-bottom:4px solid #7c3aed}\n.hero-top{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem;font-size:0.82rem;color:#4b4b57}\n.hero-top span{border:3px solid #7c3aed;color:#7c3aed;padding:0.15rem 0.45rem;font-weight:700}\n.hero h1{font-size:clamp(5.2rem,36vh,13.5rem);line-height:0.78;letter-spacing:-0.07em;color:#7c3aed;font-weight:800;margin:2vh 0;word-break:break-all}\n.hero-foot{display:flex;justify-content:space-between;align-items:flex-end;gap:1rem;flex-wrap:wrap}\n.hero-foot p{max-width:34rem;font-size:1.05rem}\n.kicker{font-size:0.78rem;letter-spacing:0.22em;color:#7c3aed;font-weight:700;margin-bottom:0.55rem}\n.wrap{padding:3.2rem 6vw;max-width:860px}\n.wrap h2{font-size:1.7rem;line-height:1.25;margin:0 0 1rem;color:#1c1c22}\n.wrap p{margin:0 0 1rem}\n.note{border:4px solid #1c1c22;padding:1rem 1.1rem;background:#f7f7fa;margin:1.2rem 0}\n.plan{border:4px solid #1c1c22;background:#f7f7fa;padding:1.6rem 1.35rem 1.4rem;margin:0 0 1.25rem}\n.plan.pick{border-color:#7c3aed;background:#efe6ff}\n.plan h3{font-size:1.45rem;margin-bottom:0.35rem}\n.price{font-size:1.85rem;font-weight:800;color:#7c3aed;line-height:1.2;margin:0.4rem 0}\n.year{font-size:0.95rem;color:#4b4b57;margin-bottom:0.8rem}\n.plan ul{padding-left:1.15rem}\n.plan li{margin:0.35rem 0}\n.badge{display:inline-block;border:3px solid #7c3aed;color:#5b21b6;font-size:0.78rem;font-weight:700;padding:0.1rem 0.45rem;margin-bottom:0.5rem}\n.step{border:4px solid #1c1c22;padding:1.15rem 1.2rem;margin:0 0 0.9rem;background:#f7f7fa}\n.step h3{font-size:1.08rem;margin-bottom:0.35rem}\n.client-box{border:4px solid #7c3aed;padding:1.3rem 1.2rem;background:#f7f7fa}\ndetails{border:4px solid #1c1c22;background:#f7f7fa;margin:0 0 0.85rem}\nsummary{padding:0.95rem 1.1rem;font-weight:700;cursor:pointer;list-style:none}\nsummary::-webkit-details-marker{display:none}\nsummary::before{content:\"+ \";color:#7c3aed}\ndetails[open] summary::before{content=\"– \"}\ndetails .ans{padding:0 1.1rem 1.05rem}\n.foot{border-top:4px solid #7c3aed;padding:1.4rem 6vw 2.2rem;font-size:0.88rem;color:#4b4b57}\n@media (max-width:760px){\n.toc{position:static;width:auto;flex-direction:row;flex-wrap:wrap;gap:0.55rem 0.9rem;border-right:none;border-bottom:4px solid #7c3aed;padding:0.8rem 1rem}\nmain{margin-left:0}\n.hero{min-height:92vh;padding:3vh 1.1rem 2.2rem}\n.hero h1{font-size:clamp(4.4rem,22vw,8.5rem)}\n.wrap{padding:2.2rem 1.1rem}\n.foot{padding:1.2rem 1.1rem 2rem}\n}\n</style><nav class=\"toc\" aria-label=\"本页目录\">\n<span class=\"mark\">GaoJI</span>\n<a href=\"#poster\">海报</a>\n<a href=\"#hello\">打招呼</a>\n<a href=\"#plans\">档位</a>\n<a href=\"#guide\">用法</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问我</a>\n</nav>\n<main>\n<section class=\"hero\" id=\"poster\">\n<div class=\"hero-top\">\n<p>浅灰底上的电光紫 · 名字先占满</p>\n<span>搞鸡云</span>\n</div>\n<h1>搞鸡云(GaoJI) · 搞<br>鸡<br>云</h1>\n<div class=\"hero-foot\">\n<p>嘿，你也滑到这儿了。这页不像说明书，更像我把三个字写到墙那么大，然后拉你坐下慢慢说。别急着找按钮，下面才是人话。</p>\n<p>GaoJI</p>\n</div>\n</section>\n<section class=\"wrap\" id=\"hello\">\n<p class=\"kicker\">先打招呼</p>\n<h2>我按朋友的口气跟你讲</h2>\n<p>搞鸡云这个名字听着热闹，像有人半夜还在屏幕前敲东西。公开材料里能核对的事实并不多，所以我不会假装成某家持证机构，也不会编一串听着很炫的指标。你看到的，就是这一页愿意写清楚的部分。</p>\n<p>要是你是被朋友丢了个链接才来的，也没关系。先把档位和用法看完。合拍就留下，不合拍就走，谁都别勉强。真有我没写到的细节，宁缺一截，也不拿“全球”“极速”这类空话堵上。</p>\n<div class=\"note\">眼下没有可核对的主体介绍、评测或服务范围说明。下面的价钱和条目是按整理用的参考档来写的，方便你对照着看，不等于一份已核验的合同。</div>\n</section>\n<section class=\"wrap\" id=\"plans\">\n<p class=\"kicker\">一档一档往下看</p>\n<h2>三张大卡，叠着放，免得你横着比得眼花</h2>\n<p>我没有把三档拍成并排小格子。你往下翻就好，像翻三张厚纸。数字是参考口径；真要付钱，以你实际对上的说明为准，这页不放交易入口。</p>\n<article class=\"plan\">\n<h3>基础版</h3>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"year\">要是按年算，整理里写过大约 ¥150 / 年</p>\n<ul>\n<li>适合还在观望、想先跟这个名字处一处的人</li>\n<li>节奏慢一点也没关系，条目少，读起来不累</li>\n<li>日常疑问走普通排队，别指望半夜有人守着</li>\n<li>更像一张入场纸条，而不是整套大礼包</li>\n</ul>\n</article>\n<article class=\"plan pick\">\n<p class=\"badge\">想省事的话，可以先盯这张</p>\n<h3>旗舰版</h3>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"year\">按年的参考写法是大约 ¥350 / 年</p>\n<ul>\n<li>额度写得更从容，适合已经打算常来的人</li>\n<li>回信会尽量往前排，但仍不是什么“全年无休承诺”</li>\n<li>条目比基础版密一档，读的时候可以当主力方案看</li>\n<li>我跟朋友聊天时，多半会指着这一张说：你要是只看一档，看它就行</li>\n</ul>\n</article>\n<article class=\"plan\">\n<h3>团队版</h3>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"year\">按年的参考写法是大约 ¥850 / 年</p>\n<ul>\n<li>给明显不止一个人记账的小团伙</li>\n<li>需要对齐用法时，整理里提到过有人对接，细节仍要以你对上的说明为准</li>\n<li>别因为名字带“团队”就默认能塞进整间公司，人数和规则都没在这页写死</li>\n<li>如果你其实就自己用，回头看旗舰版更省事</li>\n</ul>\n</article>\n</section>\n<section class=\"wrap\" id=\"guide\">\n<p class=\"kicker\">用法，不绕弯</p>\n<h2>你按这四步走就行，卡住了再问</h2>\n<p>没有安装向导可以演示，我也不编一套“打开就能用”的神话。把这页当聊天记录看，步骤短，但每步都有用。</p>\n<article class=\"step\">\n<h3>第一步，把海报之后的字读完</h3>\n<p>超大号名字很好看，可真正能帮你判断的是打招呼、档位和问答。别只截一张价格图就走。</p>\n</article>\n<article class=\"step\">\n<h3>第二步，对号入座，而不是追最贵的</h3>\n<p>一个人随便看看，基础版够意思。已经决定常来，旗舰版顺手。明显是一小组人分着用，再看团队版。选错档不可怕，可怕的是还没搞懂自己要什么。</p>\n</article>\n<article class=\"step\">\n<h3>第三步，客户端那栏如果还空着，就先别装</h3>\n<p>这页拿不到可核对的安装包地址。来路不明的文件别点。你要是已经从别处拿到说明，以你自己能确认的来源为准。</p>\n</article>\n<article class=\"step\">\n<h3>第四步，把疑问丢进折叠问答里翻一遍</h3>\n<p>我把常见的几句先写好了。翻完还是对不上，就停在已知信息上，别靠猜补全服务范围。</p>\n</article>\n</section>\n<section class=\"wrap\" id=\"clients\">\n<p class=\"kicker\">客户端</p>\n<h2>下载这事，我宁肯写得没趣一点</h2>\n<div class=\"client-box\">\n<p>目前没有可核对的官方客户端名单，也没有可靠的下载地址，所以这里不放安装链接，也不编 Windows、手机或其他系统的兼容表。你要是看见别的页面挂着包，先问一句：这地址经得起核对吗？</p>\n<p>等以后有了能确认的入口，再把名字和去处写进来也不迟。空着比误导强。链接一律不伪造，需要占位的地方就停在本页目录里打转。</p>\n<p>想回到档位对照，可以从左侧目录点回<a href=\"#plans\">档位</a>；用法还想再看一遍，去<a href=\"#guide\">用法</a>。</p>\n</div>\n</section>\n<section class=\"wrap\" id=\"faq\">\n<p class=\"kicker\">你问我答</p>\n<h2>常见问题，点开再看，省得一长串砸脸上</h2>\n<p>下面这组问答可以折叠。问题写得直白，答案也不绕。没有的事实我不会用语气来补。</p>\n<details>\n<summary>搞鸡云到底是做什么的？</summary>\n<div class=\"ans\"><p>名字取得欢实，可公开可核对的业务说明很少。所以我只把这一页当成品牌小站来写：档位、用法、问答。至于它能不能当某种网络工具用，这页没有依据，我也不顺着那个方向编。</p></div>\n</details>\n<details>\n<summary>这三档价钱能直接拿去付吗？</summary>\n<div class=\"ans\"><p>不能拿这页当收银台。¥15、¥35、¥85 以及按年的写法，都是整理用的参考口径。付款链接我故意不放，免得你点到不明页面。真要下单，回到你能确认的说明里核一遍再动手。</p></div>\n</details>\n<details>\n<summary>旗舰版边上那句“先盯这张”是不是销量第一？</summary>\n<div class=\"ans\"><p>不是。那只是我跟朋友说话时的指法：三张里它最好拿来当对照中心。没有评价可引用，也就没有“大家最爱”这种说法。</p></div>\n</details>\n<details>\n<summary>有没有电脑或手机的官方安装包？</summary>\n<div class=\"ans\"><p>没有可核对的地址，所以客户端那一栏是空着的老实话。我不会为了看起来完整就挂一个假链接。你暂时也别为了“先装上”去搜来路不清的文件。</p></div>\n</details>\n<details>\n<summary>团队版是不是必须公司抬头才能用？</summary>\n<div class=\"ans\"><p>这页没写资质，也没写对公流程。团队版只是按“人明显更多、需要对齐”来描述。具体怎么开、谁来对接，仍然要看你实际对上的说明，我这边不编一套企业套餐故事。</p></div>\n</details>\n<details>\n<summary>用着不合适能不能退？日志会不会被人翻？</summary>\n<div class=\"ans\"><p>退款规则和日志策略都没有可核对的材料，我不能随口打包票。碰到钱和隐私这种事，宁可你先停一停，也不要听我在这页里发明条款。</p></div>\n</details>\n</section>\n<div class=\"foot\">\n<p>搞鸡云 · GaoJI。海报把字写满，后边把话说明白。目录在左边，手机上会折到顶上。先到这儿。</p>\n</div>\n</main>",
+          "hash": "a58091b87f17a3884a31a2c628ec6049ad73748c998dfdca925dce9ba4781659",
+          "seo": {
+            "title": "搞鸡云 GaoJI · 把名字写很大的一页",
+            "keywords": "搞鸡云,GaoJI,搞鸡云套餐,搞鸡云怎么用,搞鸡云客户端,搞鸡云常见问题",
+            "description": "搞鸡云是把品牌名铺满一屏的小站。用跟朋友说话的口气讲档位、用法和常见问题，不端着，也不拿空话填篇幅。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "9193",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "4 浅灰配电光紫",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "quanwugou.cn",
+    "host": "p-d637149cc5.quanwugou.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "bc06b8e5b0364d0bfd702b79ac71a162e6736d538307cb1afa5cad2f60f6de90",
+    "sitemap.xml": "55f358fc7a680499f058d5ea69a98b26b5ccd1e9e999264bb1f97547dbca5947",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0f895a87011dfaea12f34cbd4e9ce4b2ecd8be7bf0f5c784734079401823d94e",
+    "robots.txt": "b5c09f2457b44bdea08b6aab75692121fc39094d932cafd38210ecf2718b32c4",
+    "557de39b1c3575d699b30e052820f12f.txt": "b052749b9ac5aae899d1d5e1c7b7e8d32102e933aa651d393d893ff30f256421"
+  },
+  "revision": "9855d150508c003585ece1157b8ae134b7a1c0f9bcf09c17df560f9ccb1e11d0"
+}
